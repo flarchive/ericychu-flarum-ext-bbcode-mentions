@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of ericychu/flarum-ext-bbcode-mentions.** Not for installation: use [Packagist](https://packagist.org/packages/ericychu/flarum-ext-bbcode-mentions) or the [upstream repository](https://github.com/EricYChu/flarum-ext-bbcode-mentions).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7.4`](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7.4) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**5** versions archived · Latest: [`v0.1.0-beta.7.4`](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7.4) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.7` | 2017-07-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7) |
+| `v0.1.0-beta.7.1` | 2018-09-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7.1) |
+| `v0.1.0-beta.7.2` | 2018-09-25 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7.2) |
+| `v0.1.0-beta.7.3` | 2018-09-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7.3) |
+| `v0.1.0-beta.7.4` | 2018-09-30 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ericychu-flarum-ext-bbcode-mentions/tree/archive/v0.1.0-beta.7.4) |
 
 Catalog entry: [packages/ericychu-flarum-ext-bbcode-mentions.json](https://github.com/flarchive/archive-index/blob/main/packages/ericychu-flarum-ext-bbcode-mentions.json)
 
